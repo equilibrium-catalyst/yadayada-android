@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">YadaYada</string>
     <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something!</string>
+    <string name="speech_not_supported">Speech unsupported, sorry!</string>
+    <string name="tap_on_mic">Tap to speak!</string>
 </resources>
