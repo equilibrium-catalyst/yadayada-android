@@ -13,11 +13,14 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="26dp"
         android:textStyle="normal"
-        tools:layout_editor_absoluteY="257dp"
-        tools:layout_editor_absoluteX="205dp"/>
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        android:layout_marginBottom="339dp"/>
 
     <Button
         android:id="@+id/btnSpeak"
