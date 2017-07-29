@@ -19,3 +19,17 @@ The main processing/business logic packages and source files are found in
 `app/src/main/java`. The resources, including layouts, are found in
 `app/src/res`. If you want to add a new asset, use the menus or right click
 on the `res` icon on the left.
+
+## Documentation
+
+- Voice Recognition
+
+Native to Android?
+
+- NLP
+
+Still thinking about this.
+
+- Server
+
+Might need a backend server. Can we make simpler for demonstration's sake?
